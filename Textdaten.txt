@@ -1,0 +1,111 @@
+#Insgesamt sind 63 Sätze mit verschiedene Eigenschaften. 
+
+#Anaphora
+
+1- My sister has a friend. she loves him.
+2- My brother has a new girlfriend.She is a student. 
+3- i saw a man with a telescope. He was a doctor. 
+4- John has always loved learning. He is a good student.
+5- The task is simply too difficult.I should have known it. 
+6- the music stopped, and that upset everyone.
+7- Susan dropped the plate.It shattered loudly. 
+8- The music was so loud that it couldn't be enjoyed.
+9- The book was too heavy for her, so she put it down.
+10- The concert was amazing. I'll never forget it")
+
+
+
+#kataphora
+
+1- because he is a good student, John has always loved learning.
+2- A few weeks before he died, my father gave me an old cigar box filled with faded letters.
+3- After he had received his orders, the soldier left the barracks.
+4- because she has a telescope, the woman is a doctor.
+5- If you want them, there are cookies in the kitchen.
+6- If you want some, here's some parmesan cheese.
+7- In their free time, the boys play video games. 
+8- Despite her difficulty, Wilma came to understand the point.
+9- If he wants to win the race, the runner needs to train harder.
+10- Before she left for the party, the woman put on the dress she had bought last week.
+
+
+#Gebundene Variablen (bound anaphors)
+	
+1- Every student has received his grade.
+2- No student was upset with his grade.
+3- The dancer hurt herself.
+4- Every dancer brought her left arm forward.
+5- every european country is dealing with financial problems due to inflation in its way.
+6- Most computational linguists prefer their own parsers.
+7- The child wondered to themselves what they wanted to be when they grew up
+8- The students challenged themselves to finish the project by the end of the week.
+9- The driver hit the curb and damaged the car itself.
+10- One should always do their best.
+
+
+#Koreferente Nominalphrasen
+
+1- The project leader is refusing to help. The jerk thinks only of himself.
+2- Some of our colleagues are going to be supportive. These kinds of people will earn our gratitude.
+3- The head doctor makes big visits at hospital. This physician doesn't know any patients.
+4- The teacher is coming next monday. This professor is finally coming back.
+5- The teacher is coming next monday. The professor is finally coming back.
+
+
+#gebundene Antezedenten
+
+1- Eva and John said they like fish, but he prefers sushi. 
+2- Alice and Bob said they like potatoes, but she prefers sushi.
+3- Mary and Sam left the party. They arrived home together.
+4- Arthur and Jacky are the best team, i think they will win, but he is better.
+5- James met Annie. He greeted her. They went to the movies.
+
+
+#Appositionen
+
+1- John, my youngest brother, is a student.
+2- United, a unit of UAL, matched the fares.
+3- Victoria Chen, CFO of Megabucks Banking, saw ...
+4- my sister, a doctor whose name is Alice Smith.
+5- My sister, Alice Smith, likes jelly beans.
+
+#Prädikative NPs
+
+1- In United is a unit of UAL.
+2- She was our friend.
+3- That is an excuse.
+4- Joe Biden is the President of the United State.
+
+
+#Clefts
+
+1- It was Emma Goldman who founded Mother Earth.
+2- It was my sister who stole the cookies.
+3- It was the rain that caused the cancellation of the game.
+4- It was the concert last night that I enjoyed the most.
+
+
+#Extrapositionen
+
+1- It surprised me that there was a herring hanging on her wall.
+2- I believe that it will rain tomorrow.
+3- It seems that the new restaurant is very popular.
+4- He suggested that we go to the park.
+
+
+#Pleonastic
+
+1- it is raining outside.
+2- hit it of.
+3- It seems that you are right.
+4- There are a lot of people here today.
+
+
+#lange Sätze
+
+1- Victoria Chen, CFO of Megabucks Banking, saw her pay jump to $2.3 million, as the 38-year-old became the company’s president. 
+It is widely known that she came to Megabucks from rival Lotsabucks
+
+2- John is studying computational linguistics at „Heinrich-Heine-Universität”. His study course is very modern. He loves it. We are talking about him.")
+
+
